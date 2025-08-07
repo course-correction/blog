@@ -4,6 +4,8 @@ title:  "Taktile Geländepläne"
 date:   2025-08-08 00:43:00 +0200
 ---
 
+Kleiner Disclaimer: Ich habe jetzt zum ersten Mal seit langem wieder einen Blogpost zusammengeschrieben. Sprachlich ist das nicht immer rund, aber ich wollte das Pamphlet jetzt endlich loswerden.
+
 Wir müssen über taktile Karten / Geländepläne reden.
 
 ![Ein Meme mit Text "There's no time to explain, get in and be cool". Hinter dem Text ist ein Foto von der Fahrerseite eines Autos. Ein Hund mit Sonnenbrille schaut Richtung Frontscheibe und hat die Pfote und Vorderbein längs auf dem Fenster abgelegt.](/media/2025_unifest_car.png)
