@@ -6,12 +6,11 @@ date:   2025-08-08 00:43:00 +0200
 
 Kleiner Disclaimer: Ich habe jetzt zum ersten Mal seit langem wieder einen Blogpost zusammengeschrieben. Sprachlich ist das nicht immer rund, aber ich wollte das Pamphlet jetzt endlich loswerden.
 
-Wir müssen über taktile Karten / Geländepläne reden.
+Wir müssen über taktile Karten und Geländepläne reden.
 
 ![Ein Meme mit Text "There's no time to explain, get in and be cool". Hinter dem Text ist ein Foto von der Fahrerseite eines Autos. Ein Hund mit Sonnenbrille schaut Richtung Frontscheibe und hat die Pfote und Vorderbein längs auf dem Fenster abgelegt.](/media/2025_unifest_car.png)
 
-Ich habe einen taktile Karte bzw.
-Geländeplan designt und gebaut.
+Ich habe eine taktile Karte beziehungsweise Geländeplan designt und gebaut.
 Hier möchte ich beschreiben wie man so etwas entwerfen und herstellen kann.
 
 Eigentlich ist das ein Teil von dem Unifest Blogpost (den ich hier verlinke, sobald ich ihn endlich fertig bekomme).
@@ -39,17 +38,17 @@ Nah schon einmal gesehen?
 Solche Stadtmodelle als Karte wirken weniger wie ein formaler Fluchtplan, sondern in ihrer Gestaltungsfreiheit eher wie Kunstobjekte.[^2]
 
 Sie sind Einzelanfertigungen, brauchen Zeit in der Herstellung, und wir präsentieren sie auf zentralen Plätzen.
-Gerne auf Vorplätzen von Rathäusern.
+Gerne ist das vor Rathäusern.
 
 Wenn ich darüber nachdenke, wie ich das erste Mal so einen Stadtplan gesehen habe, bin ich mir ziemlich sicher einmal als Kind in einer Gruppe vor so einem Teil gestanden zu haben.
 Objekte zum Anfassen sind für Kinder natürlich toll.
-Und wenn einem sonst als Kind immer gesagt wird, dass man das mit fremden Objekte im öffentlichen Raum nicht tun soll, wird so ein Angebot auch dankend angenommen.
+Und wenn einem sonst als Kind immer gesagt wird, dass man das mit fremden Objekten im öffentlichen Raum nicht tun soll, wird so ein Angebot auch dankend angenommen.
 
 Was nicht auf Kinder beschränkt ist, ist das diese Modelle auch gut als Treffpunkt für Gruppenführungen genutzt werden.
-Man kann sich gut um darum versammeln, und das Modell der Stadt als Hilfsmittel zur Präsentation von Informationen nutzen.
+Man kann sich gut darum versammeln, und das Modell der Stadt als Hilfsmittel zur Präsentation von Informationen nutzen.
 Die Gruppe kann dabei kollaborieren, indem jemand zum Beispiel eine Frage stellt und dabei einzelne Punkte oder Areale mit Gesten hervorhebt.
 Auch für sehende Menschen macht dieses Hilfsmittel Informationen zugänglich, die es ansonsten an dieser Stelle nicht sind.
-Diese können vielleicht visuell die Dimension und Relationen in ihrem Blickfeld um sich rum erfassen, aber nicht das eines ganzen Stadtgebietes.
+Diese können vielleicht visuell die Dimension und Relationen in ihrem Blickfeld um sich rum erfassen, aber nicht die eines ganzen Stadtgebietes.
 Und im Gegensatz zu der Karte auf dem Handy eben auch drei Dimensional.
 
 Ein solches Stadtmodell bietet für potenziell alle sehenden Menschen einen Mehrwert.
@@ -63,14 +62,14 @@ Wir stellen taktile Stadtpläne also mit einer gewissen gesellschaftlichen Routi
 
 Wenn „Geländeplan aus Bronze“ = „gut für Accessibility“, dann wissen wir ja, was ich für das Unifest brauche.
 
-Der Stadtplan in dem Bild oben wiegt 150 Kilogramm für den Bronzeteil plus 1,5 Tonnen für den Granitsockel.
+Kleine Schwierigkeit: Der Stadtplan in dem Bild oben wiegt 150 Kilogramm für den Bronzeteil plus 1,5 Tonnen für den Granitsockel.
 Ich befürchte, dass diese Eigenschaft bei unserer Festlogistik eine gewisse Skepsis auslöst.
 
-Die Kategorie von taktilen Geländeplänen, welche am üblichsten vorkommt, ist eine Ausprägung die mit am aufwendigsten und teuer in der Herstellung sind.
+Die Kategorie von taktilen Geländeplänen, welche am üblichsten vorkommt, ist eine Ausprägung die mit am aufwendigsten und teuer in der Herstellung ist.
 Irgendwie hat das eine gewisse Komik.
 
 Wir brauchen also einen anderen Ansatz.
-Die Karten die für sehende Menschen im Alltag nützlich sind (Egal, ob jetzt generalistisch gestaltete Navigationsapp, oder eine öffentliche Karte in der U-Bahn Haltestelle), sind normalerweise unaufgeregter und wirken nicht so spektakulär, wie das fette Bronzeobjekt auf dem Stadtplatz.
+Die Karten die für sehende Menschen im Alltag nützlich sind (Egal, ob jetzt generisch gestaltete Navigationsapp, oder eine öffentliche Karte in der U-Bahn Haltestelle), sind normalerweise unaufgeregter und wirken nicht so spektakulär, wie das fette Bronzeobjekt auf dem Stadtplatz.
 
 Suchen wir uns also solche unaufgeregten Implementierungen.
 
@@ -79,7 +78,7 @@ Suchen wir uns also solche unaufgeregten Implementierungen.
 Ich bin ein paar mal außerhalb von Deutschland fündig geworden und habe Fotos gemacht.
 Packen wir mal ein paar davon aus.
 
-Wir fangen an mit einem Geländeplan aus Bath in England von einem alten römischen Bad, welches jetzt ein Museum ist.
+Dabei fangen wir an mit einem Geländeplan aus Bath in England von einem alten römischen Bad, welches jetzt ein Museum ist.
 
 ![](/media/2025_unifest_tactile_plan_bath.jpg)
 
@@ -89,7 +88,7 @@ Trotzdem würde ein sehender Mensch wohl kaum eine Karte für einen anderen sehe
 
 Die Stadtmodelle aus Bronze wiederum?
 
-Würden wir Zugang für blinde Menschen einmal ausblenden, hätte das eigentlich keine Auswirkung auf die Art und Weise, wie wir so ein öffentliches Modell gestalten.
+Würden man Zugang für blinde Menschen einmal ausblenden, hätte das eigentlich keine Auswirkung auf die Art und Weise, wie so ein öffentliches Modell gestaltet wird.
 
 Und trotz der Gestaltung: Die Menschen, mit denen ich damals das Museum besucht habe, haben nicht wahrgenommen, dass dieser Plan in irgendeiner Weise als ein Accessibility Feature gedacht war.
 Er war mittig am Ende der Eingangspassage positioniert.
@@ -98,19 +97,27 @@ Wenn man so durch sein tägliches Leben geht (und nicht gerade ein Blogpost dar�
 
 Ein extremes Beispiel für „auch für Sehende“ ist ein Plan den ich in Slunj, Kroatien gefunden habe:
 
-![](/media/2025_unifest_tactile_plan_slunj_1.jpg)
-![](/media/2025_unifest_tactile_plan_slunj_2.jpg)
+![Ein Foto schräg auf eine breit gezogene Informationstafel mit ungefähr 50 cm Höhe und 2 Meter Breite. Die Tafel ragt aber seitlich aus dem Bild heraus. In der unteren Hälfte ist ein Flussverlauf mit anschließendem Ufer schematisch visuell dargestellt. Feste Objekte des Ufers sind mit einer erhobenen Linie taktil dargestellt, Wasser hat eine wellenförmige Linie zum Tasten. Die taktilen Elemente selbst sind transparent auf dem Farbdruck angebracht. Einige visuelle Elemente haben keine taktiles Gegenstück. Diese sind nicht nur ausgelassen, sondern stellen mit dem taktilen Muster eine andere Bedeutung dar.
+In der oberen Hälfte gibt es Bilder und Informationstexte zu angrenzenden Wasserfällen auf Kroatisch und Englisch. Neben dem Schwarzschrifttext ist ein Text in Braille geschrieben, welcher von der Länge eine der Sprachen wiedergeben könnte. Das Braille ist ebenfalls transparent angebracht. Die Schwarzschrift hat eine Schriftgröße von ca. 0,5 cm.
+Von den Textblöcken gehen schwarze Bezugslinien in die untere Hälfte des Planes.
+Die Linien haben kein taktiles Äquivalent.](/media/2025_unifest_tactile_plan_slunj_1.jpg)
+
+![Eine sehr flache Detailaufnahme derselben Informationstafel. Es ist nur ein kleiner Ausschnitt von circa 10 mal 10 cm abgebildet.
+Es gibt drei Zeilen. Visuell sind dieser weißer Hintergrund. Taktil ist immer ein Symbol und ein Wort in Braille angegeben.
+In Zeile eins: Ein taktiles Wellenmuster, Zeile zwei: Ein waagerechter Strich, Zeile drei: zwei parallele waagerechte Striche.
+Durch den flachen Winkel reflektiert die Sonne an den erhobenen Elemente, sodass diese leichter erkennbar sind.
+Die Legende ist nicht als solche gekennzeichnet und befindet sich ohne erkennbare Anhaltspunkte auf der Tafel.](/media/2025_unifest_tactile_plan_slunj_2.jpg)
 
 Die visuelle Aufmachung wirkt kaum durch die taktile Präsentation gelenkt.
 Unter anderem ist das Schriftbild nicht besonders groß.
 Die Schwarzschrift selbst ist nicht erhaben.
 Als tastbare Schrift existiert nur die Braille Schrift.
 
-Nur etwa 10–20 % der blinden Deutschen (in z. B. USA ist das eine ähnliche Größenordnung) können Braille Schrift.
-Diese Zahl fällt etwas unterschiedlich aus je nachdem welche Gruppe man sich anguckt.
+Etwa 10–20 % der blinden Deutschen (in den USA ist das eine ähnliche Größenordnung) können Braille Schrift.
+Diese Zahl fällt etwas unterschiedlich aus je nachdem welche Teilgruppe man nimmt.
 Blinde KIT Studis können in der Regel Braille.
 Manche lesen flüssig lange Texte, andere eben vielleicht nur langsamer für einzelne Wörter als Markierungen in der analogen Welt.
-So ein harter Divide zwischen Informationspräsentation für Sehende und (einer möglicherweise fehlerhaften Vorstellung unterliegenden) für gar nicht Sehende ist oft eigentlich gar nicht so sinnvoll.
+So ein harter Divide zwischen Informationspräsentation für Sehende und (einer möglicherweise fehlerhaften Vorstellungen unterliegenden) für gar nicht Sehende ist oft eigentlich gar nicht so sinnvoll.
 Das gilt nicht nur aus der Perspektive wie Informationen für blinde oder sehbehinderte Menschen dargestellt werden.
 Die Nahaufnahme der taktilen Legende zeigt das ganz schön.
 Frontal auf diese geschaut, ist die nicht leicht visuell zu erkennen.
@@ -118,13 +125,13 @@ Wenn jemand die Karte taktil erfasst, muss diese Legend auch erstmal gefunden we
 Dabei ist aber die Kollaboration mit einer sehenden Person deutlich erschwert.
 Allgemein, finde ich das einfach unnötig und wierd, wenn man nebeneinander vor einem Objekt steht, aber darüber nur begrenzt gemeinsam reden kann, weil man quasi zwei getrennte Sichten hat, und nicht weiß was für die andere Person dargestellt ist.
 
-Allein diese beiden Implementierungen eines taktilen Geländeplans zeigen wie unterschiedlich diese gestaltet werden können.
+Allein diese beiden Implementierungen eines taktilen Geländeplans zeigen wie unterschiedlich solche gestaltet werden können.
 Auch bei eher schematischen oder abstrakten Darstellungen ist jeder Plan Produkt eines neuen kreativen Prozesses.
 
 Das kann gelenkt sein durch:
 
-  - Je nachdem welchen Sachverhalt man eigentlich präsentieren möchte. In der sehenden Welt ist das auch nicht anders. Ein Liniennetzplan sieht anders aus, als die Information wie man durch eine Baustelle findet.
-  - Welches Selbstverständnis habe ich in meinen Annahmen wie meine Zielgruppe den Plan wahrnimmt? Unterteile ich hart zwischen „Sieht mit voller Sehkraft“ und „Ist komplett blind, kann perfekt Braille“? Was ist mit Menschen mit einer starken Sehbehinderung, welche aber noch mit einer geringen Sehkraft Pläne effizienter visuell wahrnehmen können als taktil, sofern man das beachtet?
+  - Je nachdem welchen Sachverhalt man eigentlich präsentieren möchte. In der sehenden Welt ist das auch nicht anders. Ein Liniennetzplan sieht anders aus, als die Informationstafel wie man durch eine Baustelle findet.
+  - Welches Selbstverständnis habe ich in meinen Annahmen wie meine Zielgruppe den Plan wahrnimmt? Unterteile ich hart zwischen „Sieht mit voller Sehkraft“ und „Ist komplett blind, kann perfekt Braille“? Was ist mit Menschen mit einer starken Sehbehinderung, welche aber noch mit einer geringen Sehkraft Pläne effizienter visuell erfassen können als eine taktile Ausführung?
   - Und letztlich auch in der eher technischen Umsetzung. Wie positioniere ich Legenden? Welche Symbole nutze ich? Arbeite ich mit Texturen? ....
 
 # Nachschlagen im Handbuch
@@ -146,7 +153,7 @@ Aber man kann sich ein paar Bausteine fertig aussuchen.
 Man startet also nicht ganz bei null, muss aber diese eben irgendwie sinnvoll zusammensetzen.
 Statt selber durch die Welt zu ziehen und einen Katalog an Beispielen aufzubauen kann man hier ganz gut in wissenschaftlichen Veröffentlichungen ([Google Scholar](https://scholar.google.com)) fündig werden.
 
-Ein für mich cooler Moment ist dann natürlich, wenn man so Dinge wie da [ATMaps Projekt](https://www.atmaps.eu/index.php/german/about/goals) von der EU findet, an der die eigene Universität damals ordentlich mitgewirkt hat.
+Nett ist dann, wenn man so Dinge wie das [ATMaps Projekt](https://www.atmaps.eu/index.php/german/about/goals) von der EU findet, an der die eigene Universität damals ordentlich mitgewirkt hat.
 Dort gibt es einen Katalog von Symbolen, die in 4 EU-Ländern (darunter Deutschland) mit 120 Personen darauf evaluiert wurden, dass sie zueinander gut taktil unterscheidbar sind.
 Diese Symbole unterscheiden sich nach Fläche, Linie (z. B. für Wände), und Punkten (Eingang, Toilette, …).
 Das Projekt macht auch Vorschläge welches Symbol man wofür verwendet und welche Elemente überhaupt wichtig sind.
@@ -154,7 +161,7 @@ Das Projekt macht auch Vorschläge welches Symbol man wofür verwendet und welch
 Aber ab hier wird es dann auch wieder brüchig.
 Forschungsergebnisse sind vielleicht in einem Kontext entstanden, welcher vom eigenen abweicht.
 Vielleicht bietet man seinen Geländeplan an einem Ort an, dessen Nutzenden einen bestehenden Standard gewohnt sind.
-Dann ergibt es natürlich Sinn sich an diesen zu orientieren.
+Dann ergibt es Sinn sich an diesen zu orientieren.
 Das meine ich nicht zwingend einschränkend.
 Arbeit zu Geländeplänen vom ACCESS@KIT fußen, zum Beispiel, teilweise darauf auf, bestehende Pläne wie einen Fluchtplan wiederzuverwenden und das automatisiert.
 Dafür müssen die Symbole klein genug bleiben.
@@ -164,9 +171,9 @@ Also kurzum: Sehr freier Gestaltungsprozess.
 Es gibt ein paar Bausteine.
 Die muss man aber an sein lokales Projekt anpassen.
 
-Wir nehmen daraus drei Erkentnisse mit für unseren Unifest Plan:
+Wir nehmen daraus drei Erkenntnisse mit für unseren Unifest-plan:
 
-  1. Der Plan exitiert für blinde und sehbehinderte Menschen, richtet seine Gestaltung nach diesen. Diese soll aber auch für sehende Menschen zugänglich sein.
+  1. Der Plan existiert für blinde und sehbehinderte Menschen, richtet seine Gestaltung nach Diesen. Diese soll aber auch für sehende Menschen zugänglich sein.
 
   2. Veröffentlichungen / Guidelines zu vor allem Symbolen, die man vielleicht ein bisschen anpassen muss.
   
@@ -178,17 +185,34 @@ Bevor wir damit jetzt den Geländeplan für das Unifest gestalten, gibt es ein d
 Dieses Mal von einem Kaufland aka Schwarz Gruppe.
 Die sitzen hier in Deutschland in Heilbronn, der Plan von diesem Kaufland war aber in Dubrovnik, Kroatien.
 
-![](/media/2025_unifest_tactile_plan_kaufland_1.jpg)
-![](/media/2025_unifest_tactile_plan_kaufland_2.jpg)
+![Ein Foto von einem taktilen Plan, circa 50 mal 50 cm. Alle Elemente sind visuell entweder schwarz oder weiß. Alle taktilen Elemente sind visuell schwarz. Schwarzschrift selbst, ist aber flach. Die linke Hälfte enthält die Legende. Nach einer Überschrift, listet sie von 0 bis 10 Nummeriert verschiedene Standorte wie „Information“, „WC“, „Kasse“ oder „Käseabteilung“. Die Sprache ist aber kroatisch.
+Der Legendentext in Braille nimmt den linken oberen Quadranten in Anspruch.
+Eine Kopie in Schwarzschrift ist im unteren rechten Quadranten. Die Schriftgröße entspricht in ihrer Zeichenhöhe den von 6 Punkt Braille Zeichen.
+In der rechten Hälfte befindet sich die eigentliche Karte.
+Sie stellt Außenwände und innere Wände der Supermarktfiliale mit einer durchgezogenen Linie dar.
+Viele waagerechte Linien sind in drei Spalten von oben nach unten verteilt und entsprechend den Verkaufsregalen.
+Die Elemente aus der Legende sind auf dieser Karte vermerkt, indem die einzelne Braillenummer an der entsprechenden Position angebracht ist.
+Neben der Nummer in Braille befindet sich die gleiche Nummer in Schwarzschrift. 
+Die Position des Planes ist mit einem Kreis mit circa 5 mm Durchmesser angegeben.
+Ein Bodenleitsystem ist durch eine gepunktete Linie angegeben.
+Diese zieht sich von oben rechts des Planes (wo sich der Eingang befindet), einmal längs an der oberen Kante entlang zum beinahe linken Rand, bevor sie den eingezeichneten Toiletten entlang, für ein kurzes Stück nach unten abbiegt.
+Dabei geht sie vorher an dem Standort des Planes selbst, am eingezeichneten Tor zu dem Verkaufswarenbereich, einem Informationsschalter und den Kassen vorbei.](/media/2025_unifest_tactile_plan_kaufland_1.jpg)
+
+![Ein Foto, von innerhalb des Supermarktes auf die Eingangstüren gerichtet.
+Zur linken ist die taktile Karte an der Wand sichtbar, zur Rechten ein Raumtrenner zum dahinterliegenden Verkaufsbereich.
+In der Mitte gehen drei Menschen in sommerlicher Freizeitkleidung mit dem Rücken zur Kamera in Richtung Ausgang.
+Am Boden hat helle Fliesen. Mittig verläuft ein schwarzes, taktiles Bodenleitsystem.
+Der Eingang ist zum Weg leicht versetzt. Das Bodenleitsystem folgt diesem Versatz durch zwei 45 Grad Knicke ohne Unterbrechung.
+Dahinter folgt ein Aufmerksamkeitsfeld mit einer orthogonalen Abzweigung zur taktilen Karte hin.](/media/2025_unifest_tactile_plan_kaufland_2.jpg)
 
 Im Vergleich zu dem Plan in Slunj, vermittelt dieser vom Kaufland ganz klar, dass er für den Zweck existiert für blinde Kunden die Orientierung zu verbessern.
 Alle Merkmale und die Auswahl welche Informationen vermittelt werden, sind nicht beeinflusst um sehenden Kunden einen Mehrwert zu liefern.
 Trotzdem sind alle taktilen Merkmale einschließlich der Braille Punkte visuell schwarz und Braille Schrift ist auch in Schwarzschrift dargestellt.
-Damit ist die erwähnte Kollaboration mit einer sehenden Begleitung in beide Richtungen problemlos möglich.
+Damit ist die erwähnte Kollaboration mit einer sehenden Begleitung in beide Richtungen möglich.
 
 Dann die Wahl der Symbole.
 Dieser Plan schafft es Symbole für eine Darstellung zu kombinieren, welche kaum erst das Erlernen eines spezifischen Konzeptes erfordern.
-Die durchgezogene Linie als nicht passierbares Element ist mit am universellsten und liefert hier mit dem Gebäudeumriss und den Regalen einen soliden Grundaufbau der in sich selbst verständlich ist.
+Die durchgezogene Linie als nicht passierbares Element ist in ihrer Bedeutung mit am universellsten und liefert hier mit dem Gebäudeumriss und den Regalen einen soliden Grundaufbau der in sich selbst verständlich ist.
 Es wird ein Punktsymbol verwendet, für den Plan und Standort selbst.
 Auch das ist deduzierbar durch den Grundaufbau und dem Wissen, dass man gerade vor eben diesem Plan steht.
 Eine Punktlinie in irgendeiner Form für taktile Bodenleitsysteme zu nutzen ist auch durchaus üblich.
@@ -216,8 +240,8 @@ Als Grundlage setzen wir uns ein paar Eigenschaften, die ich erfüllen will und 
 
 Wir bauen ein Design, mit dem wir zwei Pläne herstellen.
 Am Ende soll er auf dem Unifest, einem studentischen Musikfestival, mit 14.000 Besucher:Innen über zwei Tage zum Einsatz kommen.
-Das Gelände hat kein taktile Bodenleitsystem (bis auf eine kleine Stelle), es gibt noch ergänzend oder alternativ eine textuelle Geländebeschreibung.
-Dieser Plan ist aber stationär und wurde einmal am Eingang, und ein Zweiter mittig auf dem Gelände neben dem dortigen Awarenessstand positioniert.
+Das Gelände hat kein taktiles Bodenleitsystem (bis auf eine kleine Stelle), es gibt noch ergänzend oder alternativ eine textuelle Geländebeschreibung.
+Dieser Plan ist aber stationär und wurde einmal am Eingang, und ein zweiter mittig auf dem Gelände neben dem dortigen Awarenessstand positioniert.
 
 Das Design soll sich danach richten, dass blinde und sehbehinderte Menschen den Plan nutzen können.
 Sehende Menschen sollen Zugang zu denselben Informationen haben.
@@ -230,18 +254,26 @@ Diese Zweifarbigkeit ist vor allem gegeben, um die Herstellung einfach zu halten
 Als Grundlage dient der visuelle Gästeplan, wie er zum Beispiel auf Bauzaunbanner gedruckt wird, aber auch über die Kommunikationskanäle gestreut wurde.
 Bevor ich über die einzelnen Details rede, hier diese visuelle Karte und die fertige taktile Variante:
 
-![](/media/2025_unifest_tactile_plan_design_1.png)
+![Eine zweigeteilte Abbildung. Beide zeigen eine Karte vom Unifestgelände, mit Informationen für Besuchende.
+Dargestellt sind Umriss des Geländes, Postion von drei Bühnen, verschiedene Essens und Getränkestände, Ein- und Ausgänge, Toiletten und weitere Positionsmarkierungen.
+Der linke Plan nutzt einen hellen Hintergrund und verschiedene Farben mit teils niedrigem Kontrast für das Gelände umliegende Gebäude.
+Er enthält Elemente die im anderen Plan nicht eingezeichnet sind: Markierung vom Sponsorenstandort, Textlabels auf Elementen, zusätzliche Notausgänge, Helfen Anmeldung.
+Der rechte Plan hat einen schwarzen Hintergrund und nutzt sonst nur weiß.
+Er enthält im Gegensatz zum linken Plan die Angabe eines Verlaufs einer Leitlinie.
+Während im linken Plan Sitzgelegenheiten markiert sind in ihrem Standort, aber nicht in ihrer Form, ist im rechten Plan diese Angabe nicht durch ein Icon, sondern indem die Fläche geometrisch korrekt mit einem Muster vom Hintergrund abgehoben wird.
+Die einzelnen Markierungen liegen nicht auf einer gefärbten Fläche, sondern liegen in einem Umriss.
+In der oberen linken Ecke steht in Braille und Schwarzschrift mit 2,5 cm Höhe das Wort „Unifest“.](/media/2025_unifest_tactile_plan_design_1.png)
 *Links der bestehende rein visuelle Plan für Besuchende. Rechts der taktile Plan (Ohne den Legendenteil). Die visuelle Version hat keine Annahme, auf welcher Größe sie dargestellt wird. Der taktile Plan ist darauf ausgelegt 30 mal 60 cm groß zu sein. Dazu kommt rechtsseitig angeschlossen die Legende mit 60 mal 60 cm.*
 
 ## Symbole
 
 Zunächst müssen wir jetzt konkret werden, was wir eigentlich vermitteln möchten.
-Einerseits können wir uns auf Eigenschaften der Umgebung konzentrieren und das vermitteln.
+Einerseits können wir uns auf Eigenschaften der Umgebung konzentrieren und diese vermitteln.
 So zum Beispiel der Stadtplan mit seinen detaillierten Gebäuden.
 Abstrakter oder schematischer ist der Plan aus dem Museum, welcher aber immer noch die geformten Wände, Säulen, Größe der einzelnen Bereiche zueinander, und Becken erfahrbar macht, präziser als eine Textbeschreibung das könnte.
 Oder die Karte im Kaufland, wo es weniger darum geht, dass man exakt die Größenrelation untersuchen kann, als die Information wo sich Points of Interests (POIs) befinden und eventuelle Umgebung, die als Referenz dienen kann.
 
-Ziel für mich war eher letzteres.
+Nüchterner Zweck des Planes war eher letzteres.
 Aber: Es gab auch eine textuelle Beschreibung des Festgeländes.
 Der taktile Geländeplan, sollte schon einen Mehrwert bieten, neben bloßer Nennung und Lokalisierung von POIs.
 Daher sollte durchaus auch die Einbettung der POIs in den Umriss erlauben eine bisherige Vorstellung durch die textuelle Beschreibung „gerade zu ziehen“.
@@ -259,17 +291,17 @@ Dieses gibt uns eine [Rangfolge von Points of Interests (POIs) Wichtigkeit](http
 Aus [✨Literatur✨ zur Menge an Symbolen](https://doi.org/10.1177/026461960302100304) wissen wir, dass wir am Ende auf 10–15 unterschiedliche Symbole kommen sollen.
 Die gruppieren sich aber aus 6 Punkt, 3–4 Linien, und 3–4 Flächenmuster.
 Man kann also sich mal die Tabelle dort nehmen, und gefiltert nach offensichtlich nicht relevanten POIs danach wählen.
-**Aber:** Diese Tabelle gibt einen groben Eindruck, und gibt keine belastbare Trennschärfe zwischen den Elementen.
+**Aber:** Diese Tabelle gibt lediglich einen groben Eindruck, und keine belastbare Trennschärfe zwischen den Elementen.
 Auch wenn 115 blinde Teilnehmenden mal eine Ansage sind, macht die Veröffentlichung keine Aussage darüber, wie übertragbar die Ergebnisse sind.
 Es fehlen auch die notwendigen Daten, um selber die dafür geeigneten statistischen Tests anzuwenden.
 Das ist okay, aber man sollte sich vielleicht nicht krampfhaft an ein Ranking klammern, weil es Zahlen mit drei Nachkommastellen hat, wenn man auch andere Aspekte zur Entscheidung hat.
 
-Ich denke für Symbolauswahl und Zuordnung lohnt es sich aber immer lokale Praktiken anzunähern.
+Ich denke für Symbolauswahl und Zuordnung lohnt es sich immer lokale Praktiken anzunähern.
 Wenn es dann noch Unklarheiten gibt, bestehende lokale Karten nicht einheitlich sind, oder kaum benutzt: Nutze die Zuordnung der Symbole vom ATMaps Projekt.
 Das ist noch am ehesten übergreifender Standard der auf viele Anwendungszwecke passt.
 Wenn man selber nicht auf etwas Besseres kommt, hat man so zumindest Annäherung zu Anderen.
 
-Je mehr Symbole, umso mehr Bedeutungen muss man sich merken und umso mehr Unterscheidbarkeit zwischen allen Symbolen muss erkennbar sein.
+Je mehr Symbole, umso mehr Bedeutungen muss man sich merken und umso mehr Unterscheidbarkeit zwischen allen Symbolen muss gegeben sein.
 Bei der Gestaltung muss man sich im Klaren sein, dass aus der Perspektive „Ich denke lange darüber nach, wie der Plan sinnvoll ist“, ein anderer Eindruck entsteht, als für die Person, die in dem Moment, wo sie den Plan nutzen möchte zum ersten Mal mit den gewählten Zuordnungen konfrontiert ist.
 Und auch wenn man partizipativ eine Karte entwickelt hat, ist es hilfreich eine Ausfertigung (oder Prototyp) mal jemanden vorzulegen und zu schauen wie gut ohne Vorbereitung die Karte verständlich ist.
 
@@ -281,7 +313,12 @@ Für meinen Unifestplan habe ich die POIs in drei Kategorien gefasst.
 
 ### Infrastruktur
 
-![](/media/2025_unifest_tactile_plan_icons_infra.svg)
+![4 weiße Icons auf schwarzem Hintergrund. Alle gleich groß in ihrer Gesamtheit.
+Von links nach rechts:
+Icon 1: Ein kleiner Kreis. Von diesem gehen in einem 45 Grad Winkel je nach links unten und rechts unten ein Strich. Sie ist halb so breit wie der Durchmesser des Kreises. Sie sind dreimal so lang wie der Durchmesser des Kreises.
+Icon 2: Ein Ring. Die Linienstärke entspricht einem Achtel des Durchmessers.
+Icon 3: Ein ausgefüllter Kreis.
+Icon 4: Ein Ring mit Punkt in der Mitte. Die Linienstärke des Ringes entspricht einem Achtel des Durchmessers. Der Punkt ist im Durchmesser die doppelte Linienstärke des umgebenen Ringes.](/media/2025_unifest_tactile_plan_icons_infra.svg)
 
 Als Infrastruktur eingezeichnet sind:
 
@@ -310,7 +347,12 @@ Aus denen entspringt die Zuweisung meiner vier Infrastruktursymbole.
 
 ### Essen und Getränke
 
-![](/media/2025_unifest_tactile_plan_icons_cons.svg)
+![4 weiße Icons auf schwarzem Hintergrund. Alle gleich groß in ihrer Gesamtheit. Alle sind ein Rechteck, welches doppelt so breit wie hoch ist. Im Inneren sind in der linken Hälfte ein Schwarzschriftbuchstabe, in der rechten Hälfte der gleiche Buchstabe in Braille.
+Von links nach rechts:
+Icon 1: Buchstabe W
+Icon 2: Buchstabe E
+Icon 3: Buchstabe B
+Icon 4: Buchstabe C](/media/2025_unifest_tactile_plan_icons_cons.svg)
 
 Für Essen und Getränke eingezeichnet sind:
 
@@ -349,11 +391,16 @@ Ich hatte jetzt auch nicht die krasse Entscheidungsgrundlage das abzuwägen, abe
 Der Schwarzschriftbuchstabe wurde verkleinert, aber mit dickerer Linienstärke um die visuelle Erkennbarkeit zu erhalten.
 Dadurch ist die Möglichkeit taktil den Schwarzschriftbuchstaben zu ertasten aber quasi weg.
 Dafür passte nun der Buchstabe zusätzlich in Braille mit in die Box, ohne dass diese zu groß wurde.
-Hier ist das wohl ein angemessener Konflikt, aber ich bin ein bisschen unglücklich nicht „visuell kontraststark“, „taktil Braille“, und „taktil kein Braille“ zur Wahrnehmung vereinigt zu haben.
+Hier ist das wohl ein pragmatischer Kompromiss.
+Aber ich bin ein bisschen unglücklich nicht „visuell kontraststark“, „taktil Braille“, und „taktil kein Braille“ zur Wahrnehmung vereinigt zu haben.
 
 ### Bühnen
 
-![](/media/2025_unifest_tactile_plan_icons_stage.svg)
+![3 weiße Icons auf schwarzem Hintergrund. Alle ähnlich groß in ihrer Gesamtheit. Alle sind ein gestricheltes Rechteck oder Kreis. Im Inneren sind die Ziffern eins, zwei und drei in Braille Schrift.
+Von links nach rechts:
+Icon 1: Rechteck doppelt so breit wie hoch. Circa 10 Grad gegen den Uhrzeigersinn gedreht.
+Icon 2: Kreis
+Icon 3: Rechteck doppelt so hoch wie breit. Circa 10 Grad im Uhrzeigersinn gedreht.](/media/2025_unifest_tactile_plan_icons_stage.svg)
 
 Die drei Bühnen sollten auf der einen Seite ähnliche Symbole haben (sind ja alles Bühnen), andererseits müssen sie unterscheidbar sein.
 Zur Unterscheidbarkeit, wurden sie mit 1 bis 3 durchnummeriert.
@@ -369,7 +416,7 @@ Im Gegensatz zu den anderen POI Symbolen, entsprechen die Bühnensymbole tatsäc
 
 Irgendwie finde ich das gut, dass Linienelemente letztlich immer tatsächliche Geometrien darstellen.
 Ich mag es auch, dass Verhältnis Bühnenaufbau zu der Besucher:Innenfläche die davor liegt zu vermitteln und ein stückweise wie die Bühne von dieser aus größentechnisch wirkt.
-Das aber vielleicht ein rein persönliches Ästhetikempfinden.
+Das ist aber möglicherweise ein rein persönliches Ästhetikempfinden.
 
 ### Flächen
 
@@ -432,7 +479,11 @@ Vollholz birgt die Gefahr, dass es unterschiedliche Dichten hat und nach dem Abt
 Eigentlich bin ich Informatiker und habe mehr Ahnung von digitaler Barrierefreiheit als der Produktion von Hardwarelösungen. Deswegen an dieser Stelle Danke an den Technikunterricht meiner Gesamtschule.
 Ein erster Versuch liefert dann dieses Ergebnis:
 
-![](/media/2025_unifest_tactile_plan_test.jpg)
+![Ein Foto von einer 10 mal 20 cm dünnen Holzplatte, die am Rand von einer Hand gehalten wird.
+Sie zeigt einen Ausschnitt der taktilen Karte vom Unifest.
+Der Hintergrund ist weiß lackiert. Der Lack ist ungleichmäßig, an einzelnen Stellen scheint er gar nicht gehaftet zu haben.
+Erhabene Elemente sind schwarz lackiert.
+Teilweise sind Kanten nicht sauber schwarz, sondern weiß.](/media/2025_unifest_tactile_plan_test.jpg)
 
 Hiermit kann man dann Einstellung am Laser herausfinden oder Anpassungen an der Eingabedatei, damit vor allem Elemente mit Gradient so herauskommen wie man des gerne hätte.
 Auch sieht man auf diesen Sample noch den Einsatz von einzelnen Schwarzschriftbuchstaben mit Profil als Symbole auf der Karte.
@@ -446,13 +497,22 @@ Die ganze Platte wird mit Malerkrepp abgeklebt und in den Laser gepackt.
 Dieser schneidet dann einmal die Konturen nach.
 Dann kommt die Platte wieder raus.
 
-![](/media/2025_unifest_tactile_plan_krepp.jpg)
+![Ein Foto von einer der Holzplatten.
+Sie ist vollflächig mit Maler Tape abgeklebt.
+Die Konturen der Karte sind das Tape entlang geschnitten.
+Die Platte liegt auf einem weißen Tisch.
+Daneben liegt ein Studierendenausweis mit einem Aufkleber mit Beschriftung „Unifest“ und einer Zeichnung einer lachenden Sonnenblume.](/media/2025_unifest_tactile_plan_krepp.jpg)
 
 Die großen Flächen zieht man ab und legt das Teil wieder in die Maschine um die Fläche abzutragen.
 Das Resultat schwarz lackieren und wahnsinnig werden, während man mit einer Pinzette das übrige Maskier Krepp abzieht.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gzSTfJRkcL4?si=wprwT3gO0ZQfma4a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-![](/media/2025_unifest_tactile_plan_black.jpg)
+
+![Sechs schwarze Holzplatten liegen in einer 2 mal 3 Anordnung auf einem weißen Tisch.
+Unlackiert sind alle erhabenen Elemente.
+Der schwarz lackierte Hintergrund lässt die Maserung des Holzes durchblicken.
+An einigen Stellen ist statt Holzmaserung ein länglicher glatter Streifen Holzleim, welcher homogen Schwarz ist.
+Oberhalb der Platten sind viele verteilte Gegenstände auf dem Tisch. Unter anderem: Bleistift, Cuttermesse, Pinzette, Holzleim, Spraydosen, ein hölzernes 3D Modell von Groots Kopf aus den Marvel Filmen.](/media/2025_unifest_tactile_plan_black.jpg)
 
 Das geübte Auge erkennt einige Verfärbungen, insbesondere wo eigentlich Braille Punkte sein sollten.
 Irgendwann war mir aufgefallen, dass der Braille Text von einigen unterschiedlichen Begriffen ganz schön gleich aussieht.
@@ -474,25 +534,39 @@ Jetzt war das Schriftbild wieder klar.
 Schöner Nebeneffekt: Durch den glatten Untergrund der Folie ist beim Erkunden direkt klar, ob man an einem Element mit Punktschrift ist.
 
 Ich war ein bisschen Skeptisch wie gut die Sticker auf dem eigentlich gar nicht nachbereiteten Holz zwei Tage im Freien, zugänglich für einen Haufen potenziell betrunkener Gäste halten würden.
-Sie tun es auf dem Plan, der noch in meinem Zimmer steht immer noch. (In anderen Nachrichten: Relevante Anteile meines Appartements werden von einem der Pläne okkupiert und steht nur dezent im Weg.)
+Sie tun es auf dem Plan, der in meinem Zimmer steht immer noch. (In anderen Nachrichten: Relevante Anteile meines Appartements werden von einem der Pläne okkupiert und dieser steht auch nur dezent im Weg.)
 
 Die erhabenen Flächen habe ich dann mit weißem Lack auf Kunstharz Basis nachgezogen.
 Wenn man davon dick und zwei Schichten aufträgt, bekommt man eine leicht gerundete, glatte Oberfläche als Kontrast zum Holz. (Bei einem der Pläne war es dann leider nur eine Schicht, und der andere hätte vielleicht auch eine dritte vertragen).
 Die Platten sind damit fertig.
 
-Andere Menschen die gröbere Holzwerkstatt können (und genug Routine sich nicht die Finger an der Säge abzuschneiden), haben dann zwei Tische für die Platten gebaut.
+Andere Menschen die gröbere Holzwerkstatt können (und genug Routine haben sich nicht die Finger an der Säge abzuschneiden), haben dann zwei Tische für die Platten gebaut.
 Auf diese wurden die Holzplatten dann einfach mit doppelseitigem Klebeband aufgelegt und angepresst.
 
-![](/media/2025_unifest_tactile_plan_press.jpg)
+![Ein Foto wie ich die drei fertigen Holzplatten an einem Holztisch mit beiden Handflächen festdrücke.
+Der Tisch ist hüfthoch und um 30 Grad angewinkelt.
+Der Tisch besteht aus unbehandelten aber abgeschliffenen zugesägten Rahmenholz Segmenten und einer zugeschnittenen Spanplatte, welche zur Stabilisierung zwischen quer zwei Beine verbindet.
+Neben mir sind noch zwei weitere Personen im Bild.
+Alle tragen das gleiche dunkelblaue T-Shirt mit Aufdruck „Unifest“ auf der Brust.
+Auf den Gesichtern der anderen Beiden ist einmal ein 😃 Emoji und einmal ein 🤨 Emoji editiert.
+Das Bild ist im Außenbereich.
+Im Hintergrund sind ein Frontdesk, Flipboard mit Notizen und Post-its, und ein Bauzaun.](/media/2025_unifest_tactile_plan_press.jpg)
 *Foto: Khue Ngo ([Instagram](https://www.instagram.com/khuee.ngo/))*
 
 Zuletzt noch ein Schild druff mit dem Verweis auf den textuellen Plan.
 Das Ganze hat einen QR-Code und einen NFC Sticker.
-Da die Schreibmaschine eh schon hervorgeholt war, das Schild dann noch einmal laminieren und durch die Schreibmaschine.
+Da die Schreibmaschine eh schon hervorgeholt war, das Schild dann noch schnell laminiert und ab durch die Schreibmaschine.
 
 Das Endergebnis sieht dann so aus:
 
-![](/media/2025_unifest_tactile_plan_fertig.jpg)
+![Eine Nahaufnahme vom selben taktilen Geländeplan.
+Diesmal ohne Menschen und in einem Innenraum.
+Der Boden besteht aus hellen Fliesen mit dunkler Sprenkelung.
+Im Hintergrund sind Teile eines Bodenleitsystems, einer Tür und eines Aufstellers mit Plakat erkennbar.
+Auf dem Plan ist in der Mitte an der rechten Kante anliegend ein laminiertes DIN A5 Schild hinzugekommen.
+Es ist beschriftet mit „Eine textuelle Beschreibung des Geländes findest du auf unserer Website. Scanne den QR-Code oder halte dein Handy an den NFC Tag.“
+Der Text steht in Schwarzschrift und wurde mit Braille überprägt.
+Es hat neben dem QR-Code unten rechts weitere grafische Verzierungen wie der Schriftzug „Unifest 2025“ oben links oder eine gezeichnete Trommel mit Gesicht, Armen und Beinen die glücklich pfeift oben rechts.](/media/2025_unifest_tactile_plan_fertig.jpg)
 
 # Schluss
 
@@ -520,7 +594,7 @@ Kommt man in ein neues Gebäude, weiß man direkt wie die Karte aufgebaut ist.
 Man muss nicht erst eine Legende finden und verstehen und kann zum Beispiel direkt prüfen wie das Bodenleitsystem zum Aufzug gefolgt werden muss, um zum Beispiel ein Seminarraum oder Büro zu finden.
 Die TU Dresden baut das zum Beispiel flächendeckend in Kombination von taktiler Übersichtstafel und Leitsystem Stück für Stück aus ([PDF Seite 15 / Print Seite 28](https://tu-dresden.de/tu-dresden/universitaetskultur/diversitaet-inklusion/ressourcen/dateien/inklusion/aktionsplan-2-0-deutsch?lang=de)).
 
-Ich fänds gut, wenn es mehr taktile Karte gibt.
+Ich fänds gut, wenn es mehr taktile Karten gibt.
 
 
 [^1]: Naja fast. 2D Braille Displays wie DotPad mal ignoriert.
