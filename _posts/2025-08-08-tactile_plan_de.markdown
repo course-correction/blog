@@ -2,6 +2,7 @@
 layout: post
 title:  "Taktile Geländepläne"
 date:   2025-08-08 00:43:00 +0200
+lang: "de"
 ---
 
 Kleiner Disclaimer: Ich habe jetzt zum ersten Mal seit langem wieder einen Blogpost zusammengeschrieben. Sprachlich ist das nicht immer rund, aber ich wollte das Pamphlet jetzt endlich loswerden.
@@ -30,7 +31,7 @@ Damit bekommt es einen anderen Stellenwert als zum Beispiel eine nüchterne Info
 In Deutschland sind dafür ein Beispiel die bronzenen Stadtmodelle von Egbert und Felix Broerken.
 Auf ihrer Website haben sie momentan [216 Aufstellungsorte ihrer Stadtmodelle](https://www.blinden-stadtmodelle.de/alle_modelle) aufgeführt.
 
-![Ein Foto schräg auf ein taktiles Stadtmodell von Fürth, gefertigt aus Bronze. Es ist erkennbar auf einem Unterbau aus Granit in circa Hüfthöhe. Die Gebäude und alle Elemente sind aus einem Guss. Sie weisen einen Detailgrad auf, welcher einzelne Kitchtürme und Dachfenster erfasst. In den Straßenzügen ist der Name dieser in Schwarzschrift mit Profil und Braille angebracht.](/media/2025_unifest_tactile_plan_furth.jpg)
+![Ein Foto schräg auf ein taktiles Stadtmodell von Fürth, gefertigt aus Bronze. Es ist erkennbar auf einem Unterbau aus Granit in circa Hüfthöhe. Die Gebäude und alle Elemente sind aus einem Guss. Sie weisen einen Detailgrad auf, welcher einzelne Kirchentürme und Dachfenster erfasst. In den Straßenzügen ist der Name dieser in Schwarzschrift mit Profil und Braille angebracht.](/media/2025_unifest_tactile_plan_furth.jpg)
 *Stadtmodell in Fürth, Lizenz: [cc-by-sa-3.0](https://creativecommons.org/licenses/by-sa/3.0/de/) Urheber: 'Chrischmi' von [FürthWiki](https://www.fuerthwiki.de)*
 
 Nah schon einmal gesehen?
@@ -187,7 +188,7 @@ Die sitzen hier in Deutschland in Heilbronn, der Plan von diesem Kaufland war ab
 
 ![Ein Foto von einem taktilen Plan, circa 50 mal 50 cm. Alle Elemente sind visuell entweder schwarz oder weiß. Alle taktilen Elemente sind visuell schwarz. Schwarzschrift selbst, ist aber flach. Die linke Hälfte enthält die Legende. Nach einer Überschrift, listet sie von 0 bis 10 Nummeriert verschiedene Standorte wie „Information“, „WC“, „Kasse“ oder „Käseabteilung“. Die Sprache ist aber kroatisch.
 Der Legendentext in Braille nimmt den linken oberen Quadranten in Anspruch.
-Eine Kopie in Schwarzschrift ist im unteren rechten Quadranten. Die Schriftgröße entspricht in ihrer Zeichenhöhe den von 6 Punkt Braille Zeichen.
+Eine Kopie in Schwarzschrift ist im unteren linken Quadranten. Die Schriftgröße entspricht in ihrer Zeichenhöhe den von 6 Punkt Braille Zeichen.
 In der rechten Hälfte befindet sich die eigentliche Karte.
 Sie stellt Außenwände und innere Wände der Supermarktfiliale mit einer durchgezogenen Linie dar.
 Viele waagerechte Linien sind in drei Spalten von oben nach unten verteilt und entsprechend den Verkaufsregalen.
@@ -230,7 +231,7 @@ Die Begleitung könnte aber auch das Handy und ein multimodales LLM sein.[^3]
 Einerseits ist die Legende so kompakt geblieben, andererseits funktioniert das nicht für jeden.
 Letztlich bewegt sich die Aufnahme von großer und / oder erhabener Profilschrift in einem etwas nervigen Konfliktbereich von Vorteilen und Nachteilen.
 
-Alles zusammen empfinde ich dies aber als eine Implementierung, deren Eigenschaften ich viel abgewinnen kann.[^4]
+Alles zusammen empfinde ich dies aber als eine Implementierung, deren Eigenschaften ich doch manches abgewinnen kann.[^4]
 
 # Design (Jetzt wirklich)
 
