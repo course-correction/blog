@@ -520,13 +520,7 @@ Kommt man in ein neues Gebäude, weiß man direkt wie die Karte aufgebaut ist.
 Man muss nicht erst eine Legende finden und verstehen und kann zum Beispiel direkt prüfen wie das Bodenleitsystem zum Aufzug gefolgt werden muss, um zum Beispiel ein Seminarraum oder Büro zu finden.
 Die TU Dresden baut das zum Beispiel flächendeckend in Kombination von taktiler Übersichtstafel und Leitsystem Stück für Stück aus ([PDF Seite 15 / Print Seite 28](https://tu-dresden.de/tu-dresden/universitaetskultur/diversitaet-inklusion/ressourcen/dateien/inklusion/aktionsplan-2-0-deutsch?lang=de)).
 
-Der erste Satz aus dem KIT Missionsstatement ist:
-
-> Wir schaffen und vermitteln Wissen für Gesellschaft und Umwelt.
-
-Durch Projekte wie ATMaps hat man auch in diesem Bereich einen Beitrag geliefert.
-Anscheinend hat diese Motivation sich bei Anderen verfangen, sodass diese zunehmend routiniert taktile Karten einsetzen.
-Nicht mehr nur vereinzelt in Museen, sondern auch als Baukastenkonzept für Supermarktfilialen oder auf dem Campus.
+Ich fänds gut, wenn es mehr taktile Karte gibt.
 
 
 [^1]: Naja fast. 2D Braille Displays wie DotPad mal ignoriert.
