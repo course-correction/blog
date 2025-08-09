@@ -5,6 +5,8 @@ date:   2025-08-08 00:43:00 +0200
 lang: "de"
 ---
 
+[An English translation of this blog post is available.]({% link _posts/2025-08-08-tactile_plan_en.markdown %})
+
 Kleiner Disclaimer: Ich habe jetzt zum ersten Mal seit langem wieder einen Blogpost zusammengeschrieben. Sprachlich ist das nicht immer rund, aber ich wollte das Pamphlet jetzt endlich loswerden.
 
 Wir müssen über taktile Karten und Geländepläne reden.
