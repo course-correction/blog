@@ -36,7 +36,7 @@ On their website, they currently list [216 locations of their city models](https
 
 Now ... Have you ever seen one of these?
 
-City models like these look less like formal escape plans and more like art objects due to their creative freedom.
+City models like these look less like formal escape plans and more like art objects[^2] due to their creative freedom.
 
 They are one-of-a-kind pieces that take time to produce, and we display them in central locations.
 We like to put them in front of city halls.
@@ -598,7 +598,7 @@ I would like to see more tactile maps.
 
 
 [^1]: Well, almost. Ignoring 2D Braille displays such as DotPad.
-[^2]: My site plan is, of course, also a work of art. Especially when it comes to not getting busted by campus security while making it.
+[^2]: My tactile map is, of course, also a work of art. Especially when it comes to not getting busted by campus security while making it.
 [^3]: Please don't hit me.
 [^4]: The more I think about this plan from Kaufland, the more questions I have about its development, and assumptions that come up my mind. Unfortunately, I couldn't find anything concrete about it, nor whether the Schwarz Group has built up its own expertise in this area. Mahhh...
 [^5]: Compare [Affordance Space, Definition 12 / Figure 7](https://doi.org/10.1007/s12369-014-0251-1), [Mirror](https://www.researchgate.net/publication/276881232_From_Proxemics_Theory_to_Socially-Aware_Navigation_A_Survey)
