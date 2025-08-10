@@ -56,7 +56,7 @@ Und im Gegensatz zu der Karte auf dem Handy eben auch drei Dimensional.
 
 Ein solches Stadtmodell bietet für potenziell alle sehenden Menschen einen Mehrwert.
 Gleichzeitig fällt diesen beim davor stehen die Braille Schrift auf.
-Wir haben genug Allgemeinwissen, dass wir daraus schließen, dass das etwas „für Blinde“ ist.
+Wir haben genug Allgemeinwissen, dass wir daraus schließen, dass das etwas „für blinde Menschen“ ist.
 Mit dieser Erkenntnis ist die Assoziation, dass das Taktile zum Erfassen der Gebäude eine Alternative zum visuellen Wahrnehmen der Stadt ist, auch nicht weit.
 
 Es findet sich immer mal wieder eine Gruppierung in einer Stadt, die ein solches taktiles Stadtmodell vorschlägt.
@@ -443,7 +443,7 @@ Das waren dann diese eckigen Wellen.
 
 Die Legende ist, finde ich, ein bisschen meh.
 
-Das Offensichtliche: Sie nimmt 2/3 des Planes ein.
+Das Offensichtliche: Sie nimmt zwei Drittel des Planes ein.
 
 Zwei weitere Kritikpunkte:
 

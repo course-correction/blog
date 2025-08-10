@@ -7,6 +7,8 @@ lang: "en"
 
 [A German translation of this blog post is available.]({% link _posts/2025-08-08-tactile_plan_de.markdown %})
 
+Quick disclaimer: It’s been ages since I last wrote a blog post. The wording’s a bit rough in places, but I just wanted to finally get this piece out there.
+
 We need to talk about tactile maps.
 
 ![A meme with the text “There's no time to explain, get in and be cool.” Beneath the text is a photo of the driver's side of a car. A dog wearing sunglasses is looking toward the windshield with its paw and front leg resting lengthwise on the window.](/media/2025_unifest_car.png)
@@ -26,9 +28,9 @@ But they can also be stationary, which is the category I am focusing on here.
 # Tactile city models
 
 Placing a stationary object that can be touched in a public space can be very eye-catching.
-This gives it a different significance than, for example, sober information on a website or a map on a smartphone.
+This gives it a different status than, for example, sober information on a website or a map on a smartphone.
 
-In Germany, one example of this is the bronze city models by Egbert and Felix Broerken.
+In Germany, one example of this are the bronze city models by Egbert and Felix Broerken.
 On their website, they currently list [216 locations of their city models](https://www.blinden-stadtmodelle.de/alle_modelle).
 
 ![A photo taken at an angle of a tactile city model of Fürth, made of bronze. It is visible on a granite base at approximately waist height. The buildings and all elements are cast from a single mold. They feature a level of detail that includes individual church towers and skylights of residential buildings. The names of the streets are written in standard lettering with profile and Braille.](/media/2025_unifest_tactile_plan_furth.jpg)
@@ -36,7 +38,7 @@ On their website, they currently list [216 locations of their city models](https
 
 Now ... Have you ever seen one of these?
 
-City models like these look less like formal escape plans and more like art objects[^2] due to their creative freedom.
+City models like these appear less like formal escape plans and more like art objects[^2] due to their creative freedom.
 
 They are one-of-a-kind pieces that take time to produce, and we display them in central locations.
 We like to put them in front of city halls.
@@ -48,7 +50,7 @@ And when you're always told as a child that you shouldn't do that with objects i
 What is not limited to children is that these models are also well suited as meeting points for group tours.
 People can gather around them and use the model of the city as a tool for presenting information.
 The group can collaborate, for example, by having someone ask a question and highlight individual points or areas with gestures.
-This tool also makes information accessible to sighted people that would otherwise not be available at this location.
+This tool also makes information accessible to sighted people that would otherwise not be available to them.
 They may be able to visually grasp the dimensions and relationships in their field of vision around them, but not those of an entire urban area.
 And unlike the map on a smartphone, it is also three-dimensional.
 
@@ -58,7 +60,7 @@ We have enough general knowledge to conclude that this is something “for blind
 With this knowledge, it is not far-fetched to associate the tactile with an alternative to the visual perception of the city for understanding the buildings.
 
 Every now and then, a group in a city proposes such a tactile city model.
-Other municipalities have already done this before, we think accessibility is a good thing, and often a monetary donor can be found.
+Other municipalities have already done this before, we think accessibility is a good thing, and quite often a monetary donor can be found.
 So we set up tactile city maps with some sort of routine.
 
 If “bronze site plan” = “good for accessibility,” then we know what we need for Unifest.
@@ -66,13 +68,13 @@ If “bronze site plan” = “good for accessibility,” then we know what we n
 One small difficulty: the city map in the picture above weighs 150 kilograms for the bronze part plus 1.5 tons for the granite base.
 I fear that this characteristic will cause some skepticism in our festival logistics department.
 
-The most common type of tactile site plans is also one of the most complex and expensive to produce.
+The most widespread type of tactile maps (in Germany) is also one of the most complex and expensive to produce.
 That is somewhat remarkable.
 
 So we require a different approach.
 The maps that are useful for sighted people in everyday life (whether they are generic designed navigation apps or public maps in subway stations) are usually more understated and not as spectacular as the bold bronze object in the town square.
 
-So let's look for such understated implementations.
+So let's look for such 'boring' implementations.
 
 # Stationary tactile maps for everyday use
 
@@ -115,14 +117,14 @@ The print itself is not raised.
 The only tactile lettering is Braille.
 
 Approximately 10–20% of blind Germans (the figure is similar in the US) can read Braille.
-This number varies slightly depending on which subgroup you look at.
+This number varies depending on which subgroup you look at.
 Blind KIT students can usually read Braille.
 Some can read long texts fluently, while others may only be able to read individual words more slowly.
-Such a stark divide between the presentation of information for sighted people and (possibly flawed ideas about) for completely blind people is often not really that useful.
+Such a stark divide between the presentation of information for sighted people and (possibly flawed ideas about) for blind people is often not really that useful.
 This applies not only from the perspective of how information is presented to blind or visually impaired people.
 The close-up of the tactile legend illustrates this nicely.
-When viewed head-on, it is not easy to recognize visually.
-When someone touches the map, they first have to find the legend.
+When viewed head-on, it is not easy to recognize it visually.
+When someone touches the map, they have to locate the legend.
 However, this makes collaboration with a sighted person much more difficult.
 In general, I find it unnecessary and weird when you are standing next to each other in front of an object but can only talk about it to a limited extent because you have two separate views and don't know what the other person is perceiving.
 
@@ -131,9 +133,9 @@ Even in the case of more schematic or abstract representations, each map is the 
 
 This can be guided by:
 
-  - It depends on what you actually want to present. It's no different in the sighted world. A subway network map looks different from an information board showing how to get through a construction site.
-  - What is my self-image in my assumptions about how my target group perceives the plan? Do I make a strict distinction between “has full vision” and “is completely blind, can read Braille perfectly”? What about people with severe visual impairments who, despite their limited vision, can still comprehend plans more efficiently visually than in a tactile format?
-  - And finally, in the more technical implementation. How do I position map legends? Which symbols do I use? Do I work with textures? ....
+  - It depends on what you actually want to present. Which is no different in the sighted world. A subway network map looks different from an information board showing how to get through a construction site.
+  - What is my self-image in my assumptions about how my target group perceives the map? Do I make a strict distinction between “has full vision” and “is blind, can read Braille perfectly”? What about people with visual impairments who, despite limited vision, can still comprehend plans more efficiently visually than in a tactile format?
+  - And finally, in the more technical implementation. How do I position a map legend? Which symbols do I use? Do I work with textures? ....
 
 # Looking it up in the manual
 
@@ -151,12 +153,12 @@ Both are perfectly fine.
 
 I find the design from Bath quite appropriate, and the standard only takes you so far, depending on what you want to represent or where it hits its limits, as quoted.
 But you can pick out a few ready-made building blocks.
-So you don't start from scratch, but you have to put them together meaningfully.
-Instead of traveling the world yourself and building up a catalog of examples, you can find some inspiration in scientific publications ([Google Scholar](https://scholar.google.com)).
+This way you don't start from scratch, but you have to put them together meaningfully.
+Instead of traveling the world and building up a catalog of examples, you can also find inspiration in scientific publications ([Google Scholar](https://scholar.google.com)).
 
 It's nice when you find things like the [ATMaps project](https://www.atmaps.eu/index.php/english/about/goals) from the EU, which your own university was heavily involved in at the time.
 It contains a catalog of symbols that were evaluated by 120 people in four EU countries to ensure that they are tactilely distinguishable from one another.
-These symbols grouped as areal, lines (e.g., for walls), and points (entrance, toilet, etc.).
+These symbols are grouped as areal, lines (e.g., for walls), and points (entrance, toilet, etc.).
 The project also makes suggestions as to which symbol to use for what and which elements are important.
 
 But this is where it gets tricky again.
@@ -172,7 +174,7 @@ Everything summed up: a very free design process.
 There are a few building blocks.
 However, these must be adapted to your local project.
 
-We take three insights from this for our Unifest plan:
+We take three pieces from this for our Unifest plan:
 
   1. The plan exists for blind and visually impaired people and is designed tailored towards them. However, it should also be accessible to sighted people.
 
@@ -223,15 +225,15 @@ Simply numbering all points of interest with Braille is also an interesting comp
 There is no need to learn a catalog of symbols and their meanings.
 This also eliminates the need for a legend.
 Only the number is marked on the map itself.
-Even if I don't know Braille (or only slowly), I can utilize the numbers as tactile symbols.
+Even if I can't read Braille (or with less proficiency), I can utilize the numbers as tactile symbols.
 
-The map does not have raised profile lettering, but at least a sighted companion can tell you the meaning of the numbers, and you can then locate them yourself on the map.
-The companion could also be a cell phone and a multimodal LLM.[^3]
+The map does not have raised lettering, but at least a sighted companion can tell you the meaning of the numbers, and you can then locate them yourself on the map.
+The companion could also be a phone and a multimodal LLM.[^3]
 
 On the one hand, the legend has remained compact, but on the other hand, this does not work for everyone.
-Ultimately, the inclusion of large and/or raised profile lettering is a somewhat annoying conflict between advantages and disadvantages.
+Ultimately, the inclusion of large and/or raised lettering is a somewhat annoying conflict between advantages and disadvantages.
 
-All in all, however, I consider this to be an implementation whose features I find quite appealing.[^4]
+All in all, however, I consider this to be an implementation whose features I find appealing in many aspects.[^4]
 
 # Design (Now for real)
 
@@ -239,9 +241,10 @@ Cool Cool Cool, now one can do it oneself.
 
 As a basis, we set ourselves a few characteristics that I want to fulfill and restrictions that we are subject to.
 
-We are creating a design with which we will produce two plans.
+We are creating a design with which we will produce two map.
 In the end, it will be used at Unifest, a student music festival with 14,000 visitors over two days.
-The site does not have a tactile guidance system (except for one small area), there is a supplementary or alternative textual description of the site.
+The site does not have a tactile guidance system (except for one small instance).
+There is a supplementary or alternative textual description of the site available on a website.
 Our plan, however, is stationary and was positioned once at the entrance and a second time in the middle of the site next to the awareness stand there.
 
 The design should be based on the principle that blind and visually impaired people can use the map.
@@ -252,8 +255,8 @@ All representations are binary; we only use white and black.
 This is linked to whether something is raised or not, thus ensuring the connection between tactile and visual elements.
 This two-color scheme is also important to keep production simple.
 
-The visual guest plan is printed on fence banners, for example, but also distributed via communication channels, serves as the basis.
-Before I talk about the details, here is a visual map and the finished tactile version:
+The visual guest map is printed on fence banners, for example, but also distributed via social media channels, serves as the basis.
+Before I talk about the details, here is the visual map and the final tactile design:
 
 ![A two-part illustration. Both show a map of Unifest with information for visitors.
 The outline of the grounds, the positions of three stages, various food and drink stands, entrances and exits, toilets, and other location markers are shown.
@@ -264,7 +267,7 @@ In contrast to the plan on the left, it includes a markers for a tactile floor g
 While the plan on the left marks seating areas by their location but not by their shape, the plan on the right does not use an icon for this information, but instead highlights the area geometrically correctly with a pattern from the background.
 The individual symbols are not placed on a colored surface, but inside an outline.
 In the upper left corner, the word “Unifest” is written in Braille and print with a letter height of 2.5 cm.](/media/2025_unifest_tactile_plan_design_1.png)
-*On the left is the existing visual only map for visitors. On the right is the tactile map (without the legend). The visual version does not specify the size at which it is to be displayed. The tactile map is designed to be 30 x 60 cm in size. The (not shown) legend, measuring 60 x 60 cm, is attached to the right-hand side.*
+*On the left is the existing visual only map for visitors. On the right is the tactile map (without the legend). The visual version does not specify the size at which it is to be displayed. The tactile map is designed to be 30 by 60 cm in size. The (not shown) legend, measuring 60 x 60 cm, is attached to the right-hand side.*
 
 ## Symbols
 
@@ -274,35 +277,35 @@ For example, the city map with its detailed buildings.
 The map from the museum is more abstract or schematic, but it still allows visitors to experience the shaped walls, columns, size of the individual areas in relation to each other, and basins, more precisely than a text description could.
 Or the map at the Kaufland, where the focus is less on examining the exact size ratios and more on providing information about where points of interest (POIs) are located and the surrounding area, which can serve as a reference.
 
-The sober purpose of the Unifest plan was more the latter.
+The initial purpose of the Unifest plan was more the latter.
 But: There was also a textual description available.
 The tactile map was intended to offer added value beyond simply naming and locating POIs.
 Therefore, embedding the POIs in the outline should also allow the textual description to “straighten out” any preconceived notions.
 In addition, this made it possible to convey how the stages relate to the visitor area, the effect of their size, and how they impact the area.[^5]
-I wanted to incorporate this idea of arrangement.
+I wanted to incorporate this aspect of their arrangement.
 
 There are three types of symbols for display at the end.
 Solid lines, areal, and point symbols.
-For the latter in particular, you now have to decide what you want to display.
+For the latter in particular, you now have to decide what you want to include on your map.
 If you are reading this and are unsure yourself, the ATMaps project can help us here too.
-It provides us with a [ranking of points of interest (POIs) by importance](https://www.atmaps.eu/deliverables/ATMAPS-D_2_1-User_requirements_and_specifications_report.pdf).
+It provides us with a [ranking of POIs by importance](https://www.atmaps.eu/deliverables/ATMAPS-D_2_1-User_requirements_and_specifications_report.pdf).
 
 From [✨literature✨ on the number of symbols](https://doi.org/10.1177/026461960302100304), we know that we should end up with 10–15 different symbols.
 However, these are grouped into 6 dots, 3–4 lines, and 3–4 area patterns.
-So you can take the table there and filter out obviously irrelevant POIs.
-**But:** This table only gives a rough impression and does not provide a reliable distinction between the elements.
+So you can take the table there and filter out obviously irrelevant POIs and take what is left from the top.
+**But:** This table only gives a rough impression and does not provide a reliable distinction between the listed elements.
 Even if 115 blind participants are a statement, the publication does not say anything about how transferable the results are.
-The necessary data to apply the appropriate statistical tests is also missing.
+The necessary data to apply the appropriate statistical tests oneself is also not present.
 That's okay, but perhaps one should not cling desperately to a ranking because it has numbers with three decimal places when there are other aspects to consider in the decision.
 
-I think it's always worth looking at local practices when choosing and assigning symbols.
+It's always worth looking at local practices when choosing and assigning symbols.
 If there are still uncertainties, existing local maps are not consistent, or are rarely used, use the symbol assignments from the ATMaps project.
 This is the most comprehensive standard that is suitable for many applications.
 If you can't come up with anything better yourself, at least you'll be in line with others.
 
 The more symbols there are, the more meanings you have to remember and the more distinguishable all symbols must be.
 When designing, you have to be aware that the perspective of “I think long and hard about how the map makes sense” creates a different impression than for the person who is confronted with the chosen assignments for the first time when they want to use the map.
-And even if you have designed a map in a participatory manner, it is helpful to show a copy (or prototype) to someone and see how well the map can be understood without preparation.
+And even if you have designed a map in a participatory manner, it is helpful to give a copy (or prototype) to someone and see how well the map can be understood without preparation.
 
 For my Unifest map, I have grouped the POIs into three categories.
 
@@ -319,7 +322,7 @@ Icon 2: A ring. The line thickness corresponds to one-eighth of the diameter.
 Icon 3: A filled circle.
 Icon 4: A ring with a dot in the middle. The line thickness of the ring corresponds to one-eighth of the diameter. The dot has a diameter twice the line thickness of the surrounding ring.](/media/2025_unifest_tactile_plan_icons_infra.svg)
 
-The following infrastructure is marked:
+The following infrastructure is included on the map:
 
   - Entrances and exits
   - The awareness stand (aka service point)
@@ -327,14 +330,14 @@ The following infrastructure is marked:
   - Toilets
 
 These POIs are the least event-specific.
-That is why existing symbols are used here.
+That is why established symbols are used here.
 
 If you are lucky, a user will not have to learn them from a legend, but will already be familiar with them.
 The EU ATMaps project also offers suggestions, not only for easily recognizable symbols, but also for assigning meanings to them.
 Just one small hicup.
 ATMaps toilets are represented by filled circles, while I have chosen a ring with a dot in the middle.
 The latter are elevators in ATMaps.
-Intellectual readers may now be wondering:
+Smart readers may now be wondering:
 
 > Huh? Is he stupid?
 
@@ -343,7 +346,7 @@ Didn't our university participate in ATMaps?
 Yes, but in other later publications, which involved less non-local stakeholders, different guidelines for symbols in indoor maps were developed.
 These go by [ATIM (Accessible Tactile Indoor Map)](https://publikationen.bibliothek.kit.edu/1000148108).
 The ATIM set uses the symbols from ATMaps, but some of them have a different meaning.
-This is where the assignment of my four infrastructure symbols comes from.
+This is where the assignments of my four infrastructure symbols come from.
 
 ### Food and beverages
 
@@ -354,45 +357,45 @@ Icon 2: Letter E
 Icon 3: Letter B
 Icon 4: Letter C](/media/2025_unifest_tactile_plan_icons_cons.svg)
 
-The following are marked for food and drinks:
+The following are included for food and drinks:
 
 - Wine / Whiskey
 - Food (German "essen")
 - Beer
 - Cocktails
 
-The Unifest offered a wide variety of food options from rented food trucks and stalls.
+The Unifest offered a wide variety of food options from rented food trucks and booths.
 Given their number and the length of their names, I didn't see how I could sensibly include them in the map.
 Therefore, they were grouped together under “essen”.
 
-However, the variety of food on offer is an interesting, sought after information.
-Visitors with sight can simply scan this information as they walk around during their visit.
-The exact listing and positioning was therefore moved to a textual site plan, which was published on the website, and a reference to it was later added to the tactile map.
+However, the variety of food on offer is an interesting piece of information.
+Visitors with sight can visually scan this information as they walk around during their visit.
+The exact listing and positioning was therefore included in a textual description of the site, which was published on the website, and a reference to it was later added to the tactile map.
 
 One could now use abstract symbols for these four elements.
-However, these would not follow any standard.
-Everyone looking at the map would have to go through the legend and memorize it in order to then go through the actual map.
-Instead, the design of these symbols follows the design of the Kaufland map.
+However, these would not follow any established standard.
+Everyone interacting with the map would have to go through the legend and memorize it in order to then go through the actual map.
+Instead, these symbols’ design borrows from the Kaufland map.
 You do have to learn a meaning, but this does not have to be assigned to arbitrary shapes, but rather to a more abstract concept, such as a number.
 In the map itself, you then only have to recognize the number.
 
 Instead of numbers, I used the first letter of the (German) name, as these are all different.
 However, I had space problems with my initial design.
 
-I wanted to avoid Braille, as the map was also intended for visitors who can work with high contrast and few details in the display.
-Instead, I used a rectangle with a letter in print in the middle.
+I wanted to avoid Braille, as the map was also intended for visitors who can work with high contrast and low detailed visual elements.
+Instead of Braille, I used a rectangle with a letter in print in the middle.
 This letter then became the tactile icon, so to speak.
-With the same angular outer shape as a border, “Food and Beverages” should also be easy to explore and distinguish as a separate category in contrast other ones on the map.
+Sharing the same angular outer shape as a border, all the “Food and Beverages” POIs should be easy to explore and distinguish from other categories on the map.
 
 Testing these tactile symbols in isolation worked quite well, but if the person has no difficulty with Braille, it doesn't take long before you get asked why you didn't just put the letters in Braille there.
 So now we have created a wonderful conflict of interest.
-I didn't have a clear basis for weighing up the decision, but one was an abstract (albeit understandable) argument, while the other was a concrete request that had been voiced several times.
+I didn't have a clear basis for weighing up the decision, but one was an abstract argument, while the other was a concrete request that had been voiced several times.
 
 The print letter was reduced in size, but with thicker lines to maintain visual legibility.
-This virtually eliminates the possibility of tactilely feeling the print letter.
+This diminished the possibility of tactilely feeling the print letter.
 In return, the print letter now also fits into the box alongside the Braille letter without making it too large.
-This is a somewhat pragmatic compromise.
-But I am a little unhappy that I did not combine “visually high contrast,” “tactile Braille,” and “tactile no Braille” as perception modalities into one presentation.
+This is an acceptable compromise.
+Nevertheless, I’m somewhat dissatisfied that I didn’t present “visually high contrast,” “tactile Braille,” and “tactile no Braille” together as unified perception modalities.
 
 ### Stages
 
@@ -411,7 +414,7 @@ When I was thinking about the stages, I noticed at some point that two stages we
 The angular stages were aligned once vertically and once horizontally on the north-oriented map.
 This resulted in the dashed line, in these three shapes.
 
-The stages are positioned at the edges of the festival boundary, so that you move from the solid line of the boundary to the dashed line of the stage symbol.
+The stages are positioned on the edges of the festival boundary, so that you move from the solid line of the boundary to the dashed line of the stage symbol.
 Unlike the other POI symbols, the stage symbols actually correspond to the shape and size of the real stage (to scale :D).
 
 Somehow, I like that line elements always represent actual geometries.
@@ -420,17 +423,17 @@ But that may just be my personal aesthetic preference.
 
 ### Areal
 
-There are two separate areas.
+There are two separate areal symbols.
 
-In the middle of the site, there is a small strip of hill covered with vegetation, which is not accessible.
+In the middle of the site, there is a small strip of hill covered with dense vegetation, which is not accessible to any guests.
 Instead of drawing its contour as a boundary line, it is a continuous area. This is fairly well established.
 
-The second area is for seating.
+The second areal symbol is for seating.
 
 Beer table sets have been set up in some areas.
 In one place, it is relatively simple and rectangular.
 The other area, however, follows a curve and is separated by a path that people can walk along.
-Modeling this as an area also allows for better communication of dimensions and capacity in comparison to the terrain than perhaps with a textual description.
+Modeling this as an area also allows dimensions and shape to be conveyed more effectively in relation to the rest of the site than through a textual description alone.
 
 This leaves the question of how to make the area recognizable.
 Here, too, we look in the ATMaps symbol catalog and simply take the next pattern after “filled area.”
@@ -440,7 +443,7 @@ These were the angular waves.
 
 I find the legend a bit 'meh'.
 
-The obvious: it takes up 2/3 of the plan.
+The obvious: it takes up two thirds of the plan.
 
 Two further points of criticism:
 
@@ -460,23 +463,23 @@ There are various manufacturing options, depending on the materials and equipmen
 - With a laser engraver
 
 With the 3D printer, I would have had to produce a bunch of small plates.
-However, I also had access to an Epilog laser with a 30 x 60 cm working area, so I decided to use that.
+However, I also had access to an Epilog laser with a 30 by 60 cm working area, so I decided to use that.
 These are all valid options.
 If you don't have access to any of these devices, you may be able to find support at a local repair café or hackerspace.
 
 At first, I was thinking of using thin plastic plates. These are available with two layers of color.
 When the machine removes material, the result is not only tactile, but also two-toned.
 Alternatively, you can use transparent acrylic and polish it after removal so that everything is clear again.
-Behind the plate itself, you then add a visual layer (printer, brush, wax crayon, etc.).
+Behind the plate itself, you then add a visual layer (printer, pencil, wax crayon, etc.).
 
 I wanted to go with the two-tone plastic panels, but unfortunately I ordered the wrong material.
 So I went to the local hardware store and bought some wooden panels. In the past, I had used MDF panels.
 However, the wood glue from the MDF mixture is a bit messy and needs post-processing.
-Quite a lot of material has to be removed for the site plan (we are removing a large area so that individual elements remain raised).
+Quite a lot of material has to be removed for the tactile map (we are removing a large area so that individual elements remain raised).
 That's why I chose poplar wood. It was the softest (and cheapest) type of wood I could find there.
-Solid wood carries the risk of having different densities and, after removing a large area, it is not uniform. But that went reasonably well in the end.
+Solid wood carries the risk of having different densities and, after removing a large area, not being uniform. But that went reasonably well in the end.
 
-I'm a computer scientist and know more about digital accessibility than the production of hardware solutions. So, at this point, I'd like to thank my Gesammtschule for the uhm... 'crafting' courses.
+I'm a computer scientist and know more about digital accessibility than the production of hardware solutions. So, at this point, I'd like to thank my 'Gesammtschule' for the uhm... 'crafting' courses.
 A first attempt then delivers this result:
 
 ![A photograph of a thin wooden board measuring 10 x 20 cm, held by a hand at the edge.
@@ -485,12 +488,12 @@ The background is painted white. The paint is uneven; in some places, it does no
 Raised elements are painted black.
 In some places, the edges are not cleanly black, but white.](/media/2025_unifest_tactile_plan_test.jpg)
 
-This can then be used to determine the laser settings or make adjustments to the input file so that elements with gradients in particular come out as desired.
-This sample also shows the old design of using individual raised letters as tactile symbols on the map.
-In addition to fine-tuning the parameters for production, this sample could be used to gather change requests.
+This can then be used to determine the laser settings or to make adjustments to the input file so that elements with gradients in particular come out as desired.
+This sample also uses the old design of individual raised letters as tactile symbols on the map.
+In addition to fine-tuning parameters for production, this sample can be used to gather change requests, as happened here when switching to the print-and-Braille letter combination.
 
 After some trial and error, I started my small production run.
-I wanted to make two maps, each consisting of three 30 x 60 cm panels.
+I wanted to make two maps, each consisting of three 30 by 60 cm panels.
 The steps were as follows:
 
 The entire panel is masked with masking tape and placed in the laser.
@@ -514,8 +517,8 @@ The black varnished background allows the grain of the wood to show through.
 In some places, instead of wood grain, there is an surface smooth strip of wood glue, which is uniformly black.
 Above the panels, there are many objects scattered on the table. Among them: a pencil, a craft knife, tweezers, wood glue, spray cans, and a wooden 3D model of Groot's head from the Marvel movies.](/media/2025_unifest_tactile_plan_black.jpg)
 
-The trained eye can see some discoloration, especially where Braille dots should be.
-At some point, I noticed that the Braille text for some different terms looks quite similar.
+One might notice some discoloration, especially where Braille dots should be.
+At some point, I realized that the Braille text for some quite different words looked quite the same.
 
 Oops.
 
@@ -555,7 +558,7 @@ In the background are a front desk, a flipboard with notes and Post-its, and a c
 
 Finally, add a sign with a link to the textual plan.
 The whole thing has a QR code and an NFC sticker.
-Since the typewriter was already out, I quickly laminated the sign and ran it through the typewriter.
+Since the typewriter was already ready, I laminated the sign and quickly ran it through the typewriter.
 
 The end result looks like this:
 
@@ -570,9 +573,9 @@ In addition to the QR code at the bottom right, there are other graphic embellis
 
 # Conclusion
 
-I found tactile maps interesting for some technical reasons and enjoyed trying them out for myself at Unifest.
+I find tactile maps interesting for some technical reasons and enjoyed trying them out for myself at Unifest.
 
-The context in which tactile maps are generally useful is perhaps a little muddy.
+The context in which tactile maps are useful is perhaps a little muddy.
 Users may have different personal preferences. 
 Above all, some advantages and disadvantages vary depending on the individual and the intended use.
 
@@ -581,18 +584,18 @@ My Unifest map, for example, with the representation of the stages or the groupi
 Even if this might be a good idea:
 You can only learn this logic when you are standing in front of the map and want to use it.
 In contrast: I can put a textual description on a website.
-That way, one at least have the chance to discover it before visiting and can explore it in advance.
+That way, one at least has the chance to discover it before visiting and can explore the venue in advance.
 
 Where such a tactile plan really has advantages is in conveying a more accurate spatial impression than textual descriptions alone.
 (Without substantiating this statement): This sounds like a sensible way of conveying the placement of tactile floor guidance systems.
-Such plans, containing this information might be helpful in spontaneous situations where the routing of a floor guidance system is not known in advance (or because the guidance system itself is new, because of temporary event for example).
+Such plans, containing this information might be helpful in spontaneous situations where the routing of a floor guidance system is not known in advance (or because the guidance system itself is new, because of a temporary event for example).
 
 The problem of having to learn the concepts or legend elements of a tactile map does not arise in one variant.
 If we design not just one map, but several according adhering to the same concepts.
 Something like this exists for building information systems.
-When you enter a new building, you know immediately how the map is structured.
+When you enter a new building, you know immediately how the map is structured from previous buildings you have visited.
 You don't have to find and understand a legend first and can, for example, immediately check how the floor guidance system to the elevator must be followed to find a seminar room or office.
-The TU Dresden, for example, is expanding this piece by piece in combination with a tactile maps and floor guidance systems ([PDF page 15 / print page 28](https://tu-dresden.de/tu-dresden/universitaetskultur/diversitaet-inklusion/ressourcen/dateien/inklusion/aktionsplan-2-0-deutsch?lang=de)).
+The TU Dresden, for example, is continously deploying such a combination of tactile maps and floor guidance systems ([PDF page 15 / print page 28](https://tu-dresden.de/tu-dresden/universitaetskultur/diversitaet-inklusion/ressourcen/dateien/inklusion/aktionsplan-2-0-deutsch?lang=de)).
 
 I would like to see more tactile maps.
 
