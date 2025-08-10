@@ -457,7 +457,7 @@ That's all I want to say about the legend. It needs another try.
 
 There are various manufacturing options, depending on the materials and equipment available.
 
-- With an embroidery machine on fabric (https://youtu.be/QszlDW-2Fug?t=3684)
+- With an [embroidery machine on fabric](https://youtu.be/QszlDW-2Fug?t=3684)
 - With a 3D printer
 - With a CNC milling machine
 - With a laser engraver
